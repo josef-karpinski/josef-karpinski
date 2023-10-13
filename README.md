@@ -29,7 +29,7 @@ This was my first ever program that I worked on from ideation to creation. This 
 ## Circlegame
 Circlegame is an aim training video game that myself and manos-alex created as an extension to the skills we learned in our AP Computer Science A class. We developed the entire game from scratch, colloborating on what features we desired and finally implementing those features using our programming skills. In addition, we developed Circlegame's very own webpage where anybody can download and enjoy our creation. This project developed my skills in various different areas, most notably my problem solving, colloboration skills, Java, HTML/CSS, and Javascript. 
 
-## ValoScout
+## [ValoScout](https://github.com/josef-karpinski/ValoScout)
 Valoscout is a Python program that I developed that can be used to scout semi-proffesional teams in Riot Games' first person shooter, VALORANT. This program utilizes the Riot Games Devloper API and analyzes the perfomance of any team of 5 players that you desire. This program gave me my first experience with utilizing API's and is one that my school's team is able to utilize.
 
 ## Quizlet to PDF (Current)
