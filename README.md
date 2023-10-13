@@ -1,4 +1,4 @@
-### Hello 👋
+## Hello 👋
 
 <!--
 **josef-karpinski/josef-karpinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ My name is Josef Karpinski. I am a Computer Science (BS) and Applied Mathematics
 
 This GitHub page contains most of the personal projects that I have worked on as an aspiring software developer.
 
-### My Projects
+# My Projects
 
 ## Connect 4
 This was my first ever program that I worked on from ideation to creation. This project was developed as a final project for my AP Computer Science A class. The goal was to create a full game from scratch using Processing.org's Java library. I decided to create a fully-functioning and animated version of the all-time classic board game. This project developed my skills in OOP and Java, and overall drived my passion for programming.
