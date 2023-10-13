@@ -23,7 +23,7 @@ If you wish to view my resume, click here.
 
 # My Projects
 
-## Connect 4
+## [Connect 4](https://github.com/josef-karpinski/Connect-4-with-Processing)
 This was my first ever program that I worked on from ideation to creation. This project was developed as a final project for my AP Computer Science A class. The goal was to create a full game from scratch using Processing.org's Java library. I decided to create a fully-functioning and animated version of the all-time classic board game. This project developed my skills in OOP and Java, and overall drived my passion for programming.
 
 ## Circlegame
