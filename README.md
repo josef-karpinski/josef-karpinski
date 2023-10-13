@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 My name is Josef Karpinski. I am a Computer Science (BS) and Applied Mathematics (BA) student at the University of Connecticut. I am currently pursuing internship oppurtunities for Summer 2024. I have experience in various different programming languages and framework, making me versatile in development environment.
 
-This GitHub page contains most of the personal projects that I have worked on as an aspiring software developer.
+If you wish to contact me, my email is josef.karpinski@uconn.edu.
+
+### My Resume
 
 # My Projects
 
