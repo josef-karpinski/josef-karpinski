@@ -19,7 +19,7 @@ My name is Josef Karpinski. I am a Computer Science (BS) and Applied Mathematics
 
 If you wish to contact me, my email is josef.karpinski@uconn.edu.
 
-### My Resume
+If you wish to view my resume, click here.
 
 # My Projects
 
