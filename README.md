@@ -32,6 +32,6 @@ Circlegame is an aim training video game that myself and manos-alex created as a
 ## [ValoScout](https://github.com/josef-karpinski/ValoScout)
 Valoscout is a Python program that I developed that can be used to scout semi-proffesional teams in Riot Games' first person shooter, VALORANT. This program utilizes the Riot Games Devloper API and analyzes the perfomance of any team of 5 players that you desire. This program gave me my first experience with utilizing API's and is one that my school's team is able to utilize.
 
-## Quizlet to PDF (Current)
-This is the project that I am currently working on. I am developing a google chrome extension where users can turn online quizlet flashcard sets into print-friendly PDFs, where they can then print out and use physical flashcards. The main goal of this project for me is to develop my JavaScript skills while also introduce myself to the Google Chrome Developer Environment.
+## Quizlet to PDF
+This is a project that I am currently working on. I am developing a google chrome extension where users can turn online quizlet flashcard sets into print-friendly PDFs, where they can then print out and use physical flashcards. The main goal of this project for me is to develop my JavaScript skills while also introduce myself to the Google Chrome Developer Environment.
 
