@@ -7,7 +7,6 @@ If you wish to contact me, my email is josef.karpinski@uconn.edu.
 If you wish to view my resume, click [here](https://github.com/josef-karpinski/josef-karpinski/blob/main/resume/JK_Resume_2024-07-31.pdf).
 
 
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/josefkarpinski) 
 
 # 💻 Tech Stack:
