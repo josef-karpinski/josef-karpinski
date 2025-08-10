@@ -10,6 +10,8 @@ If you wish to view my resume, click [here](https://github.com/josef-karpinski/j
 
 # 💻 Tech Stack:
 
+[![circlegame-neo Repo](https://github-readme-stats.vercel.app/api/pin/?username=circlegame&repo=circlegame-neo&border_color=000000)](https://github.com/circlegame/circlegame-neo)
+
 ### Web Dev:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
