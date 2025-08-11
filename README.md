@@ -1,6 +1,6 @@
 # Hi, I'm Joe 
 
-<img src="https://people.com/thmb/Xd7Z_p7Q_T5w6Ezm666eOW5zysc=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(465x0:467x2)/LeBron-James-Bryce-070624-2-298ee61a5d5a49ce92fda7c38437d3fc.jpg" width="200" style="vertical-align: middle;" />
+<!-- <img src="https://people.com/thmb/Xd7Z_p7Q_T5w6Ezm666eOW5zysc=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(465x0:467x2)/LeBron-James-Bryce-070624-2-298ee61a5d5a49ce92fda7c38437d3fc.jpg" width="200" style="vertical-align: middle;" /> -->
 
 <img src="./assets/lebron-james-make-face.gif" width="300">
 
