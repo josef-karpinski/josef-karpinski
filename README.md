@@ -2,6 +2,8 @@
 
 <img src="https://people.com/thmb/Xd7Z_p7Q_T5w6Ezm666eOW5zysc=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(465x0:467x2)/LeBron-James-Bryce-070624-2-298ee61a5d5a49ce92fda7c38437d3fc.jpg" width="200" style="vertical-align: middle;" />
 
+<img src="./assets/lebron-james-make-face.gif" width="300">
+
 [![Resume](https://img.shields.io/badge/Resume-%23238636.svg?style=for-the-badge)](https://github.com/josef-karpinski/josef-karpinski/blob/main/resume/JK_Resume_2025-07-21.pdf)
 [![Email](https://img.shields.io/badge/Email-%230b7d75.svg?style=for-the-badge)](mailto:josef.karpinski.dev@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%231f6feb.svg?style=for-the-badge)](https://linkedin.com/in/josefkarpinski)
