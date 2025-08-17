@@ -12,7 +12,7 @@
 
 [![circlegame-neo Repo](https://github-readme-stats.vercel.app/api/pin/?username=circlegame&repo=circlegame-neo&theme=dark&border_color=000000)](https://github.com/circlegame/circlegame-neo)
 [![quizcards Repo](https://github-readme-stats.vercel.app/api/pin/?username=josef-karpinski&repo=quizcards&theme=dark&border_color=000000)](https://github.com/josef-karpinski/quizcards)
-[![captext Repo](https://github-readme-stats.vercel.app/api/pin/?username=josef-karpinski&repo=captext&theme=dark&border_color=000000)](https://github.com/josef-karpinski/captext)
+[![captext Repo](https://github-readme-stats.vercel.app/api/pin/?username=josef-karpinski&repo=captext&theme=dark&border_color=000001)](https://github.com/josef-karpinski/captext)
 
 ### AI / ML:
 
@@ -22,7 +22,7 @@
 ### Other
 
 [![Connect-4 Repo](https://github-readme-stats.vercel.app/api/pin/?username=josef-karpinski&repo=Connect-4-with-Processing&theme=dark&border_color=000000)](https://github.com/josef-karpinski/Connect-4-with-Processing)
-[![circlegame-legacy Repo](https://github-readme-stats.vercel.app/api/pin/?username=circlegame&repo=circlegame-legacy&theme=dark&border_color=000000)](https://github.com/circlegame/circlegame-legacy)
+[![circlegame-legacy Repo](https://github-readme-stats.vercel.app/api/pin/?username=circlegame&repo=circlegame-legacy&theme=dark&border_color=000001)](https://github.com/circlegame/circlegame-legacy)
 
 
 
