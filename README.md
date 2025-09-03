@@ -4,7 +4,7 @@
 
 <img src="./assets/lebron-james-make-face.gif" width="300">
 
-[![Resume](https://img.shields.io/badge/Resume-%23238636.svg?style=for-the-badge)](https://github.com/josef-karpinski/josef-karpinski/blob/main/resume/JK_Resume_2025-07-21.pdf)
+[![Resume](https://img.shields.io/badge/Resume-%23238636.svg?style=for-the-badge)](https://github.com/josef-karpinski/josef-karpinski/blob/main/resume/JK_Resume_2025-09-02.pdf)
 [![Email](https://img.shields.io/badge/Email-%230b7d75.svg?style=for-the-badge)](mailto:josef.karpinski.dev@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%231f6feb.svg?style=for-the-badge)](https://linkedin.com/in/josefkarpinski)
 
