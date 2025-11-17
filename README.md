@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-%230b7d75.svg?style=for-the-badge)](mailto:josef.karpinski.dev@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%231f6feb.svg?style=for-the-badge)](https://linkedin.com/in/josefkarpinski)
 
-### 💻 Web-dev:
+<!--### 💻 Web-dev:
 
 [![circlegame-neo Repo](https://github-readme-stats.vercel.app/api/pin/?username=circlegame&repo=circlegame-neo&theme=dark&border_color=000000)](https://github.com/circlegame/circlegame-neo)
 [![quizcards Repo](https://github-readme-stats.vercel.app/api/pin/?username=josef-karpinski&repo=quizcards&theme=dark&border_color=000000)](https://github.com/josef-karpinski/quizcards)
@@ -23,7 +23,7 @@
 
 [![Connect-4 Repo](https://github-readme-stats.vercel.app/api/pin/?username=josef-karpinski&repo=Connect-4-with-Processing&theme=dark&border_color=000000)](https://github.com/josef-karpinski/Connect-4-with-Processing)
 [![circlegame-legacy Repo](https://github-readme-stats.vercel.app/api/pin/?username=circlegame&repo=circlegame-legacy&theme=dark&border_color=000001)](https://github.com/circlegame/circlegame-legacy)
-
+-->
 
 
 ---
