@@ -28,4 +28,4 @@
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=josef-karpinski&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=josef-karpinski&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
