@@ -2,15 +2,47 @@
 
 <!-- <img src="https://people.com/thmb/Xd7Z_p7Q_T5w6Ezm666eOW5zysc=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(465x0:467x2)/LeBron-James-Bryce-070624-2-298ee61a5d5a49ce92fda7c38437d3fc.jpg" width="200" style="vertical-align: middle;" /> -->
 
-<img src="./assets/lebron-james-make-face.gif" width="300">
+<p align="center">
+  <img
+    src="./assets/walker-buzzer-beater.gif"
+    style="max-width: 100%; width: 600px;"
+  />
+</p>
+
+<br/>
 
 I'm Josef Karpinski, a software engineer and undergraduate student at the University of Connecticut.
 
+
 Most of my projects here involve work in JavaScript, Python, and AWS, focused on full-stack web applications and distributed systems. Check out the pinned repositories below for the main projects I am currently working on.
 
-[![Resume](https://img.shields.io/badge/Resume-%23238636.svg?style=for-the-badge)](https://github.com/josef-karpinski/josef-karpinski/blob/main/resume/JK_Resume_2025-09-24.pdf)
-[![Email](https://img.shields.io/badge/Email-%230b7d75.svg?style=for-the-badge)](mailto:josef.karpinski.dev@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%231f6feb.svg?style=for-the-badge)](https://linkedin.com/in/josefkarpinski)
+<br/>
+
+<p align="center">
+  <a
+    href="https://github.com/josef-karpinski/josef-karpinski/blob/main/resume/JK_Resume_2025-09-24.pdf"
+    style="text-decoration:none;"
+  >
+    <img src="./assets/buttons/resume.svg" height="44" style="vertical-align:middle; margin-right:10px;" />
+  </a>
+  <a
+    href="mailto:josef.karpinski.dev@gmail.com"
+    style="text-decoration:none;"
+  >
+    <img src="./assets/buttons/email.svg" height="44" style="vertical-align:middle; margin-right:10px;" />
+  </a>
+  <a
+    href="https://linkedin.com/in/josefkarpinski"
+    style="text-decoration:none;"
+  >
+    <img src="./assets/buttons/linkedin.svg" height="44" style="vertical-align:middle;" />
+  </a>
+</p>
+
+
+
+
+
 
 <!--### 💻 Web-dev:
 
