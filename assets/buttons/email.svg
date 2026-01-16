@@ -1,0 +1,12 @@
+<svg width="180" height="44" viewBox="0 0 180 44" xmlns="http://www.w3.org/2000/svg">
+  <rect width="180" height="44" rx="8" fill="#0b7d75"/>
+  <text x="90" y="28"
+        text-anchor="middle"
+        font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif"
+        font-size="14"
+        font-weight="600"
+        fill="#ffffff"
+        letter-spacing="1">
+    EMAIL
+  </text>
+</svg>
