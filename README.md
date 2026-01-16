@@ -5,7 +5,7 @@
 <p align="center">
   <img
     src="./assets/walker-buzzer-beater.gif"
-    style="max-width: 100%; width: 600px;"
+    style="max-width: 100%; width: 400px;"
   />
 </p>
 
